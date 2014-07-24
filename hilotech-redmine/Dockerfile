@@ -1,7 +1,7 @@
 FROM centos:centos6
 MAINTAINER hilotech.jp
 ##
-#   @container Redmine /w nginx on centos:centos6
+#   @container Redmine /w Apache on centos:centos6
 #   @author SHIOBARA -Bar- Hiroaki
 #   @update 2014/07/24
 ##
